@@ -9,6 +9,8 @@ I love front-end and back-end development:computer: :heart:
 
 <br>
 
+:dart: I love to learn new things. I am not limited to technologies, if I need to learn a new technology I will strive to learn.
+
 :rocket: I am currently looking for an opportunity to enter the area and show my potentia
 <br>:purple_heart: seeking to collaborate on front end projects with Html, css, Javascript and ReactJS and Back-End with the PHP language
 <br>:computer: Technologies I use: HTML, CSS, JS, PHP and a little bit of ReactJS
