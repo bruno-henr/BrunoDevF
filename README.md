@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm brunodevf</h1>
+<h1 align="center">Hi 👋, I'm Bruno Henrique</h1>
 <h3 align="center">I am passionate about solving problems using programming. <br> I'm Dev Junior I love front-end and back-end development :computer: :heart:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunodevf&label=Profile%20views&color=0e75b6&style=flat" alt="brunodevf" /> </p>
